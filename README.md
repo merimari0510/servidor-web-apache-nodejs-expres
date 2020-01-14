@@ -36,4 +36,4 @@ mateixa xarxa amb Ethernet
 
 ## Instal·lació
 
-La instal·lació, l'explicació del codi i la demo la podeu trobar a la presentació XXXX.
+La instal·lació, l'explicació del codi i la demo la podeu trobar a la [presentació](https://github.com/merimari0510/servidor-web-apache-nodejs-expres/blob/master/explicacio.pdf).
