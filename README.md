@@ -1,6 +1,6 @@
 # servidor-web-apache-nodejs-expres
 
-#Introducció
+# Introducció
 
 Es realitzarà una pàgina web amb JavaScript (JS) que faci el següent:
 - un 1r requadre on l'usuari escriu una linia;
