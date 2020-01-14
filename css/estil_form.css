@@ -1,0 +1,50 @@
+#apache_dinamica
+{
+  padding: 3px;
+  position: absolute;
+  bottom: 0;
+  width: 578px;
+  margin: 5px;
+}
+
+div input
+{
+  border: 1px solid #a0b3b0;
+  padding: 10px;
+  width: 500px;
+  color: white;
+  background: none;
+}
+
+div button
+{
+  width: 69px;
+  background: #1ab188;
+  border: 1px solid #a0b3b0;
+  padding: 10px;
+}
+
+
+#messages
+{
+  list-style-type: none;
+  margin: 7px;
+  padding: 0;
+  border: 1px solid rgba(19, 35, 47, 0.9);
+  border-radius: 6px;
+}
+
+#messages li
+{
+  padding: 10px;
+}
+
+#messages li:nth-child(odd)
+{
+  background: #eee;
+}
+
+#messages li:nth-child(even)
+{
+  background: #dce3e2;
+}

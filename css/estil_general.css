@@ -1,0 +1,22 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+  font: 16px Helvetica, Arial;
+}
+
+.marc
+{
+  background: rgba(19, 35, 47, 0.9);
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  position: relative;
+  height: 600px
+}

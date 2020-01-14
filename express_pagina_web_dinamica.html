@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Express. Web Dinàmica</title>
+    <link rel="stylesheet" type="text/css" href="css/estil_general.css">
+    <link rel="stylesheet" type="text/css" href="css/estil_form.css">
+    <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="js/enviament_missatges.js"></script>
+  </head>
+  <body>
+    <div class="marc" id="signDiv">
+      <div style="overflow-y: scroll; height: 545px;">
+		<!-- Es van afegint els missatges enviats -->
+        <ul id="messages"></ul> 
+      </div>
+      <div id="apache_dinamica" name="apache_dinamica">
+		<!-- Quan s'envia un missatge, s'afegeix a la miista de messages -->
+        <input id="message" name="m" type="text" autocomplete="off" /><button id="Send" onclick="send_missage()">Send</button> 
+      </div>
+      <div style="clear: both"></div>
+    </div>  	
+  </body>
+</html>
